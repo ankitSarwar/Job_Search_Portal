@@ -9,8 +9,8 @@
 
 
 >## Data Structure used in my project
-    This document outlines the steps to create a job (id,title,description,location,salary, companyName, employerName ,jobType )
-    Student model will have-
+    This document outlines the steps to create a model which have job class (id,title,description,location,salary, companyName, employerName ,jobType )
+    job class will have-
     * id
     * title
     * description
@@ -28,7 +28,7 @@
         Repository:
 >## 3. Repository
        * IJobRepository - defines interface for data access operations on the Job entity.
-         IJobRepository extends CrudRepository
+        * IJobRepository extends CrudRepository
   
 >## 4. Model
        1.Job-
