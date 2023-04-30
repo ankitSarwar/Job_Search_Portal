@@ -9,16 +9,9 @@
 
 
 >## Data Structure used in my project
-    This document outlines the steps to create a model which have job class (id,title,description,location,salary, companyName, employerName ,jobType )
-    job class will have-
-    * id
-    * title
-    * description
-    * location
-    * salary
-    * companyName
-    * employerName
-    * jobType(Eunm)
+   This project uses the following data structures:-
+                Job:- A model class that represents a job listing, with attributes such as id, title, description, location, salary, companyName, employerName, jobType (an enum class that represents job categories such as IT, HR, Sales, Marketing), and appliedDate.
+
       
 >## 1.Controller-
         *JobController - exposes REST endpoints for creating, updating, deleting, and searching jobs.
