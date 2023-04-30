@@ -9,13 +9,16 @@
 
 
 >## Data Structure used in my project
-    This document outlines the steps to create a student model and an event model (Id,name,department,branch,location,description,starttime,endtime,date)
+    This document outlines the steps to create a job (id,title,description,location,salary, companyName, employerName ,jobType )
     Student model will have-
-    * StudentId
-    * first name
-    * last name
-    * age
-    * department
+    * id
+    * title
+    * description
+    * location
+    * salary
+    * companyName
+    * employerName
+    * jobType(Eunm)
       
 >## 1.Controller-
         *JobController - exposes REST endpoints for creating, updating, deleting, and searching jobs.
