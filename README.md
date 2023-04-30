@@ -1,8 +1,11 @@
 
 <h1 align="center"> 👤Job_Search_Portal🎉</h1>
 
->### Framework and Language Used:-Java
->### Language- Spring Boot
+>### Framework Used 
+ * ![SpringBoot](https://img.shields.io/badge/SpringBoot-White?style=flat&logoColor=Blue)
+
+>### Language Used
+* ![Java](https://img.shields.io/badge/Java-White?style=flat&logoColor=Blue)
 
 
 >## Data Structure used in my project
